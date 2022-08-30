@@ -6,7 +6,7 @@
 - Petrasche는 인스타그램을 모티브로 사진을 통해 ***반려동물의 일상을 공유, 자랑, 소통*** 하는 커뮤니티 서비스입니다.
 기본 서비스 이외에도 ***반려동물 월드컵*** 을 통한 셀럽 반려동물 만들기와 나의 반려동물과 함께할 ***동네 산책친구 찾기***  등 다양한 서비스로 이용자에게 즐거움을 주고자 노력합니다.
 
-> 연관 GITHUB
+> 연관 Github
 - Front-end: https://github.com/Super-fast-decision-making/Petrasche_front
 - AI(classification): https://github.com/Super-fast-decision-making/Petrasche_classification
 
