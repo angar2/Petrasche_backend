@@ -11,7 +11,7 @@
 - [AI (classification)](https://github.com/angar2/Petrasche_AI)
 
 > 개발 기간
-- 2022.07.07 ~ 2022.08.04
+- 2022.07.07 ~ 2022.08.15
 
 > 프로젝트 형태
 - 팀 프로젝트(4인)
