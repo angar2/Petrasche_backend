@@ -7,7 +7,7 @@
 기본 서비스 이외에도 ***반려동물 월드컵*** 을 통한 셀럽 반려동물 만들기와 나의 반려동물과 함께할 ***동네 산책친구 찾기***  등 다양한 서비스로 이용자에게 즐거움을 주고자 노력합니다.
 
 > 연관 Github
-- [Front-end](https://github.com/angar2/Petrasche_front)
+- [Front-end](https://github.com/angar2/Petrasche_frontend)
 - [AI (classification)](https://github.com/angar2/Petrasche_AI)
 
 > 개발 기간
